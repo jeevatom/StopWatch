@@ -1,0 +1,37 @@
+/* Stopwatch.css */
+
+/* Style for the time display */
+.time-display {
+    height: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.5rem;
+    letter-spacing: 0.1rem;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  /* Styles for the buttons */
+  .btn-group .btn {
+    margin: 0 10px;
+  }
+  
+  /* Style for the card header */
+  .card-header h3 {
+    font-size: 1.75rem;
+  }
+  
+  /* Style for the laps list */
+  .card-footer h4 {
+    font-size: 1.5rem;
+  }
+  
+  .list-group-item {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
